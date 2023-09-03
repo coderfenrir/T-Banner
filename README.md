@@ -1,4 +1,4 @@
 # T-Banner
 Termux Arayüz özelleştirme.
-**Screenshot**
-[![Proje Resmi](https://ibb.co/WGfy5Ts)]
+# Screenshot
+![Açıklama](https://ibb.co/WGfy5Ts)
