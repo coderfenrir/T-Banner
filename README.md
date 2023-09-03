@@ -5,7 +5,7 @@
 
 # 1. Depoyu klonla:
 
-`git clone https://github.com/coderfenrir/T-Banner`
+``git clone https://github.com/coderfenrir/T-Banner``
 
 # 2. Proje dizinine git:
 
