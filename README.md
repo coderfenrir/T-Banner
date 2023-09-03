@@ -2,14 +2,15 @@
 ![Proje Logo](https://ibb.co/WGfy5Ts)
 
 ## kurulum
-1. Depoyu klonla:
 
-```git clone https://github.com/coderfenrir/T-Banner
+# 1. Depoyu klonla:
 
-2. Proje dizinine git:
+git clone https://github.com/coderfenrir/T-Banner
 
-```cd T-Banner
+# 2. Proje dizinine git:
 
-4. Çalıştır
+cd T-Banner
 
-```python T-Banner.py
+# 3. Çalıştır
+
+python T-Banner.py
