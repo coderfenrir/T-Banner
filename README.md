@@ -4,12 +4,12 @@
 ## kurulum
 1. Depoyu klonla:
 
-git clone https://github.com/coderfenrir/T-Banner
+```git clone https://github.com/coderfenrir/T-Banner
 
 2. Proje dizinine git:
 
-cd T-Banner
+```cd T-Banner
 
 4. Çalıştır
 
-python T-Banner.py
+```python T-Banner.py
