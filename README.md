@@ -3,8 +3,8 @@
 
 ## kurulum
 
- ```git clone https://github.com/coderfenrir/T-Banner
+ ```git clone https://github.com/coderfenrir/T-Banner```
 
-```cd T-Banner
+```cd T-Banner```
 
-```python T-Banner.py
+```python T-Banner.py```
