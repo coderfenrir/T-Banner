@@ -14,3 +14,6 @@
 # 3. Çalıştır
 
 `python T-Banner.py`
+
+## Uyarı!
+Henüz test aşamasında ve bir takım hatalar var suan üzerinde çalışıyoruz lütfen hatalar düzeltilince deneyiniz.
